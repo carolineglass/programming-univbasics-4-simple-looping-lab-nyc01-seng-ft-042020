@@ -33,5 +33,5 @@ def return_string_array(array)
     arr.push(array[counter])
     counter += 1
   end
-  puts arr
+  arr
 end 
